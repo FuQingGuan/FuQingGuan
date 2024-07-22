@@ -59,5 +59,5 @@
       <img src="https://profile-counter.glitch.me/fuqingguan/count.svg" />
 </p>
 
-- [ x ] 已完成
+- [x] 已完成
 - [ ] 未完成
